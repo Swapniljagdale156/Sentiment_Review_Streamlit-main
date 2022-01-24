@@ -1,0 +1,11 @@
+Name of algorithm,Precision,Recall,F1 Score
+Bernoulli Naive Bayes   ,0.76,0.92,0.83
+Gaussian Naive Bayes  ,0.82,0.94,0.87
+Multinomial Naive Bayes  ,0.89,0.93,0.91
+Random Forest Classifier ,0.89,0.93,0.91
+Support Vector Machines ,0.9,0.88,0.89
+Logistic Regression ,0.89,0.92,0.91
+Extra Trees Classifier ,0.9,0.9,0.9
+Ada Boost Classifier  ,0.9,0.91,0.9
+Gradient Boosting Classifier ,0.81,0.95,0.87
+Voting Classifier ,0.91,0.93,0.92
